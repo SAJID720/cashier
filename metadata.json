@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Unique Spot Cashier Dashboard",
+  "description": "A modern, intuitive cashier dashboard for the 'Unique Spot' supermarket, designed to streamline the checkout process. It features product scanning, cart management, payment processing, AI-powered daily promotion suggestions, persistent storage, sales history, and an accounting dashboard.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
